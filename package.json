@@ -12,7 +12,6 @@
   "devDependencies": {
     "@types/vanillajs-datepicker": "^1.2.1",
     "typescript": "^4.8.2",
-    "vanillajs-datepicker": "^1.2.0",
     "vite": "^3.0.9",
     "vite-plugin-solid": "^2.3.0"
   },
@@ -30,6 +29,7 @@
     "solid-bootstrap": "^1.0.11",
     "solid-js": "^1.5.1",
     "solid-zustand": "^1.5.0",
+    "vanillajs-datepicker": "^1.2.0",
     "zustand": "^4.1.5"
   }
 }

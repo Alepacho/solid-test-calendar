@@ -22,16 +22,9 @@
 ## Как запустить?
    1. Клонируем проект
    2. Ставим пакеты: `npm i`
-   3. Затем делаем `build` для `Vanilla JS Datepicker`:
-```bash
-cd ./node_modules/vanillajs-datepicker/
-npm i
-npm run build
-```
-   4. Идем обратно в проект: `cd ../../`
-   5. Запускаем: `npm run dev`
-   6. ...
-   7. Profit!
+   3. Запускаем: `npm run dev`
+   4. ...
+   5. Profit!
 
 ## Нюансы
  * В `store` все `actions` и `states` намешаны одну в кучу, поскольку делал я все не через `reducers`, а через `slices`
