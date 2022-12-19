@@ -8,7 +8,6 @@
 Стек: `Solid.js`, `TypeScipt`, `Vite`, `Solid-Router`, `Solid-Bootstrap`, `axios`, `FullCalendar`, `Soldi-Zustand`, `vanillajs-datepicker`
 
 ## Отличия в проекте
-# 
  * `Solid.js` вместо `React.js` 🤗
  * Используется [Solid-Bootstrap](https://github.com/solid-libs/solid-bootstrap) вместо `And Design`
  * Заменил `Redux` на [Solid-Zustand](https://github.com/wobsoriano/solid-zustand)
@@ -16,13 +15,11 @@
   
 
 ## Скрины
-# 
 ![](./screenshots/2.png)
 
 ![](./screenshots/3.png)
 
 ## Как запустить?
-# 
    1. Клонируем проект
    2. Ставим пакеты: `npm i`
    3. Затем делаем `build` для `Vanilla JS Datepicker`:
@@ -37,7 +34,6 @@ npm run build
    7. Profit!
 
 ## Нюансы
-# 
  * В `store` все `actions` и `states` намешаны одну в кучу, поскольку делал я все не через `reducers`, а через `slices`
  * `Modal` в `solid-bootstrap` не обновляет контент внутри. Скорее всего это баг у пакета, так как я проверял у `react-bootstrap` и там таких проблем не было
  * Из-за бага выше не заморачивался с валидацией в `EventFrom`
