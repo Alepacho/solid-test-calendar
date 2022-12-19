@@ -1,0 +1,35 @@
+{
+  "name": "solid-test-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/vanillajs-datepicker": "^1.2.1",
+    "typescript": "^4.8.2",
+    "vanillajs-datepicker": "^1.2.0",
+    "vite": "^3.0.9",
+    "vite-plugin-solid": "^2.3.0"
+  },
+  "dependencies": {
+    "@fullcalendar/bootstrap5": "^6.0.0",
+    "@fullcalendar/core": "^6.0.0",
+    "@fullcalendar/daygrid": "^6.0.0",
+    "@fullcalendar/interaction": "^6.0.0",
+    "@solidjs/router": "^0.5.1",
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
+    "sass": "^1.56.2",
+    "scss": "^0.2.4",
+    "solid-bootstrap": "^1.0.11",
+    "solid-js": "^1.5.1",
+    "solid-zustand": "^1.5.0",
+    "zustand": "^4.1.5"
+  }
+}
