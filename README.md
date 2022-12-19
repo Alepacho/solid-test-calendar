@@ -5,7 +5,7 @@
 Основано на проекте из видео [React JS ПРОДВИНУТЫЙ КУРС](https://www.youtube.com/watch?v=ElaIKk8ba5g) от [Ulbi TV](https://github.com/utimur/react-profi)
 
 # 
-Стек: `Solid.js`, `TypeScipt`, `Vite`, `Solid-Router`, `Solid-Bootstrap`, `axios`, `FullCalendar`, `Soldi-Zustand`, `vanillajs-datepicker`
+Стек: `Solid.js`, `TypeScipt`, `Vite`, `Solid-Router`, `Solid-Bootstrap`, `axios`, `FullCalendar`, `Solid-Zustand`, `vanillajs-datepicker`
 
 ## Отличия в проекте
  * `Solid.js` вместо `React.js` 🤗
